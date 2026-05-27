@@ -1,0 +1,9 @@
+# A-share watchlist
+688563 68.9
+001391 5.20
+512170 0.330
+# Hong Kong and United States watchlist; append cost price if held
+HK:00386 4.64
+HK:06862 14.73
+US:CMCSA 28.8
+US:KWEB 30.52

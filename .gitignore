@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.env
+.macd_alert_state.json
+.intraday_alert_state.json
+.daily_alert_state.json
